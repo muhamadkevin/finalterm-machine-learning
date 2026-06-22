@@ -84,3 +84,16 @@ Karena MLP adalah *Black-box*, dilakukan metode pengacakan (Permutasi) untuk men
 1. `V_101_200_avg` (Pola agregasi dari grup Vesta)
 2. `TransactionAmt` (Nominal uang yang ditransaksikan)
 3. `TransactionDT` (Pola waktu transaksi dilakukan)
+
+## Identitas
+
+| | |
+|---|---|
+| **Nama** | Muhamad Kevin |
+| **Kelas** | TK46GAB |
+| **NIM** | 101032300243 |
+| **Mata Kuliah** | Machine Learning (Final Term) |
+
+---
+
+*Dibuat sebagai bagian dari Final Term Machine Learning — TK46GAB.*
